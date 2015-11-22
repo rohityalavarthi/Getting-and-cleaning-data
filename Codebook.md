@@ -1,7 +1,7 @@
 Downloaded Data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-"UCI HAR Dataset": folder unzipped from Dataset.zip
-"UCI HAR Dataset"/activity_labels.txt: labels for each of the 6 activities (loaded by run_analysis.R)
+"UCI HAR Dataset": dataset.zip is dowloaded and unzipped.
+"UCI HAR Dataset"/activity_labels.txt: labels of 6 activities are loaded by runanalysis.R
 "UCI HAR Dataset"/features.txt: labels for each measurement found in the test and training datasets (loaded by run_analysis.R)
 "UCI HAR Dataset"/train/subject_train.txt: subjects ID corresponding to the training dataset (loaded by run_analysis.R)
 "UCI HAR Dataset"/train/X_train.txt: the training dataset, containing measurements only (loaded by run_analysis.R)
